@@ -1,0 +1,19 @@
+
+nav{
+    display: flex;
+    justify-items: space-between;
+    color: white;
+}
+h1{
+    text-align: left;
+    font-size: 25px;
+}
+
+h2{
+    text-align: right;
+}
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
